@@ -183,6 +183,10 @@ I learn best by building projects, so most of what I know comes from trying thin
 
 <br>
 
+<img src="https://raw.githubusercontent.com/Neha-Lodh/Neha-Lodh/output/github-snake-dark.svg" alt="Contribution grid" width="100%">
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Neha-Lodh&label=PROFILE+VIEWS&color=4775A8&style=flat-square&labelColor=122440" alt="Profile views">
 
 </div>
@@ -192,9 +196,7 @@ I learn best by building projects, so most of what I know comes from trying thin
 
 <div align="center">
 
-These widgets are free community services and can occasionally be slow or rate-limited. If any card above looks empty, these alternatives still work:
-
-<img src="https://commitpulse.vercel.app/api/streak?user=Neha-Lodh&bg=050914&accent=65A9FF&text=DCE8F7" alt="Contribution pulse" width="100%">
+These widgets are free community services and can occasionally be slow or rate-limited. If any card above looks empty, these links still work:
 
 <a href="https://github.com/Neha-Lodh?tab=repositories&sort=stargazers">Repositories by stars</a> &nbsp;|&nbsp;
 <a href="https://github.com/Neha-Lodh?tab=overview">Native contribution graph</a> &nbsp;|&nbsp;
