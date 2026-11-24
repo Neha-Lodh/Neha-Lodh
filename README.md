@@ -41,37 +41,37 @@ I learn best by building projects, so most of what I know comes from trying thin
   <tr>
     <td align="right"><b>Programming</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-4775A8?style=flat-square&logo=python&logoColor=DCE8F7" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-4775A8?style=flat-square&logo=javascript&logoColor=DCE8F7" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Python-238636?style=flat-square&logo=python&logoColor=E6EDF3" alt="Python">
+      <img src="https://img.shields.io/badge/JavaScript-238636?style=flat-square&logo=javascript&logoColor=E6EDF3" alt="JavaScript">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/SQL-4775A8?style=flat-square&logo=databricks&logoColor=DCE8F7" alt="SQL">
-      <img src="https://img.shields.io/badge/MySQL-4775A8?style=flat-square&logo=mysql&logoColor=DCE8F7" alt="MySQL">
+      <img src="https://img.shields.io/badge/SQL-238636?style=flat-square&logo=databricks&logoColor=E6EDF3" alt="SQL">
+      <img src="https://img.shields.io/badge/MySQL-238636?style=flat-square&logo=mysql&logoColor=E6EDF3" alt="MySQL">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Data Analytics</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Excel-4775A8?style=flat-square&logo=microsoftexcel&logoColor=DCE8F7" alt="Excel">
-      <img src="https://img.shields.io/badge/Python%20for%20Data-4775A8?style=flat-square&logo=pandas&logoColor=DCE8F7" alt="Python for data analysis">
+      <img src="https://img.shields.io/badge/Excel-238636?style=flat-square&logo=microsoftexcel&logoColor=E6EDF3" alt="Excel">
+      <img src="https://img.shields.io/badge/Python%20for%20Data-238636?style=flat-square&logo=pandas&logoColor=E6EDF3" alt="Python for data analysis">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Web Development</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML-4775A8?style=flat-square&logo=html5&logoColor=DCE8F7" alt="HTML">
-      <img src="https://img.shields.io/badge/CSS-4775A8?style=flat-square&logo=css3&logoColor=DCE8F7" alt="CSS">
-      <img src="https://img.shields.io/badge/JavaScript-4775A8?style=flat-square&logo=javascript&logoColor=DCE8F7" alt="JavaScript">
+      <img src="https://img.shields.io/badge/HTML-238636?style=flat-square&logo=html5&logoColor=E6EDF3" alt="HTML">
+      <img src="https://img.shields.io/badge/CSS-238636?style=flat-square&logo=css3&logoColor=E6EDF3" alt="CSS">
+      <img src="https://img.shields.io/badge/JavaScript-238636?style=flat-square&logo=javascript&logoColor=E6EDF3" alt="JavaScript">
     </td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Streamlit-4775A8?style=flat-square&logo=streamlit&logoColor=DCE8F7" alt="Streamlit">
-      <img src="https://img.shields.io/badge/GitHub-4775A8?style=flat-square&logo=github&logoColor=DCE8F7" alt="GitHub">
+      <img src="https://img.shields.io/badge/Streamlit-238636?style=flat-square&logo=streamlit&logoColor=E6EDF3" alt="Streamlit">
+      <img src="https://img.shields.io/badge/GitHub-238636?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub">
     </td>
   </tr>
 </table>
@@ -86,9 +86,9 @@ I learn best by building projects, so most of what I know comes from trying thin
       <h3>CodeQuest</h3>
       <p>An interactive coding adventure game that teaches programming through play.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML-243E61?style=flat-square&labelColor=122440&color=243E61" alt="HTML">
-        <img src="https://img.shields.io/badge/CSS-243E61?style=flat-square&labelColor=122440&color=243E61" alt="CSS">
-        <img src="https://img.shields.io/badge/JavaScript-243E61?style=flat-square&labelColor=122440&color=243E61" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="HTML">
+        <img src="https://img.shields.io/badge/CSS-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="CSS">
+        <img src="https://img.shields.io/badge/JavaScript-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="JavaScript">
       </p>
       <!-- verify: tech used in CodeQuest -->
       <b>Key features</b>
@@ -104,10 +104,10 @@ I learn best by building projects, so most of what I know comes from trying thin
       <h3>InsightFlow</h3>
       <p>An AI-assisted data analysis app: upload a dataset, check its quality, ask questions, explore charts and download a report.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Python">
-        <img src="https://img.shields.io/badge/Flask-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Flask">
-        <img src="https://img.shields.io/badge/Streamlit-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Streamlit">
-        <img src="https://img.shields.io/badge/HTML-243E61?style=flat-square&labelColor=122440&color=243E61" alt="HTML">
+        <img src="https://img.shields.io/badge/Python-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Python">
+        <img src="https://img.shields.io/badge/Flask-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Flask">
+        <img src="https://img.shields.io/badge/Streamlit-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Streamlit">
+        <img src="https://img.shields.io/badge/HTML-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="HTML">
       </p>
       <b>Key features</b>
       <ul>
@@ -125,11 +125,11 @@ I learn best by building projects, so most of what I know comes from trying thin
       <h3>Network Anomaly Detector</h3>
       <p>A machine learning web app that analyzes network traffic data, detects abnormal activity, scores risk and shows alerts on an interactive dashboard.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Python">
-        <img src="https://img.shields.io/badge/Flask-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Flask">
-        <img src="https://img.shields.io/badge/scikit--learn-243E61?style=flat-square&labelColor=122440&color=243E61" alt="scikit--learn">
-        <img src="https://img.shields.io/badge/MySQL-243E61?style=flat-square&labelColor=122440&color=243E61" alt="MySQL">
-        <img src="https://img.shields.io/badge/Chart.js-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Chart.js">
+        <img src="https://img.shields.io/badge/Python-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Python">
+        <img src="https://img.shields.io/badge/Flask-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Flask">
+        <img src="https://img.shields.io/badge/scikit--learn-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="scikit--learn">
+        <img src="https://img.shields.io/badge/MySQL-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="MySQL">
+        <img src="https://img.shields.io/badge/Chart.js-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Chart.js">
       </p>
       <b>Key features</b>
       <ul>
@@ -144,13 +144,13 @@ I learn best by building projects, so most of what I know comes from trying thin
       <h3>Nexa AI</h3>
       <p>An intelligent Retrieval-Augmented Generation (RAG) assistant that answers questions using your own data.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Python">
-        <img src="https://img.shields.io/badge/Streamlit-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Streamlit">
-        <img src="https://img.shields.io/badge/Gemini-243E61?style=flat-square&labelColor=122440&color=243E61" alt="Gemini">
-        <img src="https://img.shields.io/badge/LangChain-243E61?style=flat-square&labelColor=122440&color=243E61" alt="LangChain">
-        <img src="https://img.shields.io/badge/LangGraph-243E61?style=flat-square&labelColor=122440&color=243E61" alt="LangGraph">
-        <img src="https://img.shields.io/badge/ChromaDB-243E61?style=flat-square&labelColor=122440&color=243E61" alt="ChromaDB">
-        <img src="https://img.shields.io/badge/MySQL-243E61?style=flat-square&labelColor=122440&color=243E61" alt="MySQL">
+        <img src="https://img.shields.io/badge/Python-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Python">
+        <img src="https://img.shields.io/badge/Streamlit-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Streamlit">
+        <img src="https://img.shields.io/badge/Gemini-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="Gemini">
+        <img src="https://img.shields.io/badge/LangChain-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="LangChain">
+        <img src="https://img.shields.io/badge/LangGraph-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="LangGraph">
+        <img src="https://img.shields.io/badge/ChromaDB-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="ChromaDB">
+        <img src="https://img.shields.io/badge/MySQL-0E4429?style=flat-square&labelColor=161B22&color=0E4429" alt="MySQL">
       </p>
       <b>Key features</b>
       <ul>
@@ -170,20 +170,20 @@ I learn best by building projects, so most of what I know comes from trying thin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Neha-Lodh&show_icons=true&hide_border=false&bg_color=122440&border_color=243E61&title_color=65A9FF&text_color=DCE8F7&icon_color=65A9FF&ring_color=65A9FF&rank_icon=github" alt="GitHub stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Lodh&layout=compact&hide_border=false&bg_color=122440&border_color=243E61&title_color=65A9FF&text_color=DCE8F7" alt="Most used languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Neha-Lodh&show_icons=true&hide_border=false&bg_color=161B22&border_color=30363D&title_color=39D353&text_color=E6EDF3&icon_color=39D353&ring_color=39D353&rank_icon=github" alt="GitHub stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha-Lodh&layout=compact&hide_border=false&bg_color=161B22&border_color=30363D&title_color=39D353&text_color=E6EDF3" alt="Most used languages" height="165">
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Neha-Lodh&background=122440&border=243E61&stroke=243E61&ring=65A9FF&fire=65A9FF&currStreakNum=DCE8F7&sideNums=DCE8F7&currStreakLabel=65A9FF&sideLabels=DCE8F7&dates=8299B8" alt="GitHub streak" height="165">
+<img src="https://streak-stats.demolab.com/?user=Neha-Lodh&background=161B22&border=30363D&stroke=30363D&ring=39D353&fire=39D353&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=39D353&sideLabels=E6EDF3&dates=8B949E" alt="GitHub streak" height="165">
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha-Lodh&bg_color=0C1930&color=DCE8F7&line=65A9FF&point=DCE8F7&area=true&area_color=4775A8&hide_border=true&title_color=65A9FF" alt="GitHub activity graph" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha-Lodh&bg_color=161B22&color=E6EDF3&line=39D353&point=E6EDF3&area=true&area_color=26A641&hide_border=true&title_color=39D353" alt="GitHub activity graph" width="100%">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Neha-Lodh&label=PROFILE+VIEWS&color=4775A8&style=flat-square&labelColor=122440" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Neha-Lodh&label=PROFILE+VIEWS&color=238636&style=flat-square&labelColor=161B22" alt="Profile views">
 
 </div>
 
@@ -224,10 +224,10 @@ These widgets are free community services and can occasionally be slow or rate-l
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4775A8?style=for-the-badge&logo=linkedin&logoColor=DCE8F7" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-4775A8?style=for-the-badge&logo=gmail&logoColor=DCE8F7" alt="Email"></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-4775A8?style=for-the-badge&logo=googlechrome&logoColor=DCE8F7" alt="Portfolio"></a>
-  <a href="https://github.com/Neha-Lodh"><img src="https://img.shields.io/badge/GitHub-4775A8?style=for-the-badge&logo=github&logoColor=DCE8F7" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-238636?style=for-the-badge&logo=linkedin&logoColor=E6EDF3" alt="LinkedIn"></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=E6EDF3" alt="Email"></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=googlechrome&logoColor=E6EDF3" alt="Portfolio"></a>
+  <a href="https://github.com/Neha-Lodh"><img src="https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=E6EDF3" alt="GitHub"></a>
 </p>
 
 <br>
