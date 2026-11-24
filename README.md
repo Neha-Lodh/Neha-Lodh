@@ -1,8 +1,8 @@
 <!--
   SETUP: Find & Replace these placeholders before publishing
-  Neha-Lodh           -> Neha-Lodh (also the name of this repository)
-  YOUR-LINKEDIN      -> Neha Lodh
-  YOUR_EMAIL         -> lodhneha36@gmail.com
+  Neha-Lodh           -> your GitHub username (also the name of this repository)
+  YOUR-LINKEDIN      -> your LinkedIn handle
+  YOUR_EMAIL         -> your email address
   YOUR-PORTFOLIO-URL -> your portfolio site (or delete that badge)
   REPO_NAME / YOUR-DEMO-LINK -> remaining project links (CodeQuest, Nexa AI, InsightFlow demo)
   Lines marked "verify" -> check they match what you actually built
@@ -98,7 +98,7 @@ I learn best by building projects, so most of what I know comes from trying thin
         <li>Game-style progression to keep practice engaging</li>
       </ul>
       <!-- verify: features -->
-      <a href="https://github.com/Neha-Lodh/CodeQuest">Repository</a> &nbsp;|&nbsp; <a href="https://YOUR-DEMO-LINK">Live demo</a>
+      <a href="https://github.com/Neha-Lodh/REPO_NAME">Repository</a> &nbsp;|&nbsp; <a href="https://YOUR-DEMO-LINK">Live demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>InsightFlow</h3>
@@ -180,10 +180,6 @@ I learn best by building projects, so most of what I know comes from trying thin
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha-Lodh&bg_color=0C1930&color=DCE8F7&line=65A9FF&point=DCE8F7&area=true&area_color=4775A8&hide_border=true&title_color=65A9FF" alt="GitHub activity graph" width="100%">
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Neha-Lodh/Neha-Lodh/output/github-snake-dark.svg" alt="Contribution grid" width="100%">
 
 <br>
 
