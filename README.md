@@ -1,8 +1,8 @@
 <!--
   SETUP: Find & Replace these placeholders before publishing
-  Neha-Lodh           -> your GitHub username (also the name of this repository)
-  YOUR-LINKEDIN      -> your LinkedIn handle
-  YOUR_EMAIL         -> your email address
+  Neha-Lodh           -> Neha-Lodh (also the name of this repository)
+  YOUR-LINKEDIN      -> Neha Lodh
+  YOUR_EMAIL         -> lodhneha36@gmail.com
   YOUR-PORTFOLIO-URL -> your portfolio site (or delete that badge)
   REPO_NAME / YOUR-DEMO-LINK -> remaining project links (CodeQuest, Nexa AI, InsightFlow demo)
   Lines marked "verify" -> check they match what you actually built
@@ -98,7 +98,7 @@ I learn best by building projects, so most of what I know comes from trying thin
         <li>Game-style progression to keep practice engaging</li>
       </ul>
       <!-- verify: features -->
-      <a href="https://github.com/Neha-Lodh/REPO_NAME">Repository</a> &nbsp;|&nbsp; <a href="https://YOUR-DEMO-LINK">Live demo</a>
+      <a href="https://github.com/Neha-Lodh/CodeQuest">Repository</a> &nbsp;|&nbsp; <a href="https://YOUR-DEMO-LINK">Live demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>InsightFlow</h3>
